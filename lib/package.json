@@ -45,7 +45,5 @@
     "node": ">=0.10.33",
     "npm": ">=1.4.0"
   },
-  "dependencies": {
-  "js-yaml": ">=3.13.1"
-}
+  "dependencies": {}
 }
