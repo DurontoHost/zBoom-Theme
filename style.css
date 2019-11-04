@@ -1,0 +1,140 @@
+/*
+Theme Name: zBoomMusic
+Theme URI: http://sardergroup.com/
+Author: SRToslim
+Author URI: http://sardergroup.com/
+Description: zBoomMusic is a free Music website template with responsive and mobile-friendly web design. This fantastic and modern web layout is based on the popular Bootstrap Framework and follows all the latest tech practices. You can utilize zBoomMusic for all sorts of fundraisers, charities and non-profit organization. Let the page help you spread awareness for a cause and make a difference. With zBoomMusic, you can achieve fantastic results which will help you raise an exceptional amount of funds with your organization. What’s more, zBoomMusic has sticky navigation, cool mouse hover effects, animated statistics, brand logo slider and fully supports video content. You can also start writing a blog where you can share more about your project and go on a more personal level with your audience. Lastly, the contact page contains both a form and Google Maps.
+Requires at least: WordPress 4.9.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: zboom
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+.comment-body .comment-author img {
+	width: 30px;
+	height: 30px;
+}
+
+.right-sidebar ul{
+	background: #1E1E1E;
+	margin-left: 0 !important;
+	padding-left: 25px;
+}
+
+.right-sidebar .tagcloud{
+	background: #1E1E1E;
+	margin-left: 0 !important;
+	padding: 10px 15px ;
+}
+
+.right-sidebar .tagcloud a{
+	display: inline;
+    padding: 2px;
+    background: #ED16C1;
+    font-size: 11pt !important;
+    text-align: center;
+}
+
+.right-sidebar .textwidget{
+	background: #1E1E1E;
+	padding: 10px;
+}
+
+.right-sidebar .textwidget p{
+	padding: 2px;
+}
+
+#content .block02 button{
+	border-radius:15px;
+	background: deepskyblue;
+	color: #fff;
+	float: right;
+}
+
+#content button:hover{
+	cursor: pointer;
+	background: green;
+}
+
+#content .more button{
+	border-radius:15px;
+	background: deepskyblue;
+	color: #fff;
+}
+
+#content .more button:hover{
+	cursor: pointer;
+	background: green;
+}
+
+#content .block03 article p button{
+	border-radius:5px;
+	background: deepskyblue;
+	color: #fff;
+	float: right;
+}
+
+#content .block03 article p button:hover{
+	background: green;
+}
+
+#content .block03 .bimg img{
+	border: 1.5px solid yellow;
+	width: 97%;
+	padding: 7px;
+	background: #fff;
+	border-bottom-right-radius: 100px;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 100px;
+	border-top-right-radius: 0px;	
+}
+
+#content .block03 .gimg img{
+	border: 1.5px solid yellow;
+	width: 95%;
+	padding: 5px;
+	background: #fff;
+	/* border-bottom-right-radius: 10px; */
+	border-bottom-left-radius: 45px;
+	/* border-top-left-radius: 10px; */
+	border-top-right-radius: 45px;
+}
+
+#content .block01 .box img{
+	border: 1.5px solid yellow;
+	width: 95%;
+	padding: 5px;
+	margin-bottom: 10px;
+	background: #fff;
+	border-bottom-right-radius: 80px;
+	/* border-bottom-left-radius: 10px; */
+	border-top-left-radius: 80px;
+	/* border-top-right-radius: 10px;	 */
+}
+
+#content .block02 article img{
+	border: 1px solid yellow;
+	width: 95%;
+	padding: 5px;
+	background: #fff;
+	/* border-bottom-right-radius: 10px; */
+	border-bottom-left-radius: 50px;
+	/* border-top-left-radius: 10px; */
+	border-top-right-radius: 50px;	
+}
+
+#content .info{
+	background: #1E1E1E;
+	padding: 5px;
+	color: #F36A97;
+}
+
+footer{
+	margin-bottom: 30px !important;
+}
